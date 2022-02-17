@@ -1,0 +1,13 @@
+D:\5TRI\EDWIN\6\6\bin\Debug\netcoreapp3.1\6.exe
+D:\5TRI\EDWIN\6\6\bin\Debug\netcoreapp3.1\6.deps.json
+D:\5TRI\EDWIN\6\6\bin\Debug\netcoreapp3.1\6.runtimeconfig.json
+D:\5TRI\EDWIN\6\6\bin\Debug\netcoreapp3.1\6.runtimeconfig.dev.json
+D:\5TRI\EDWIN\6\6\bin\Debug\netcoreapp3.1\6.dll
+D:\5TRI\EDWIN\6\6\bin\Debug\netcoreapp3.1\6.pdb
+D:\5TRI\EDWIN\6\6\obj\Debug\netcoreapp3.1\6.csproj.AssemblyReference.cache
+D:\5TRI\EDWIN\6\6\obj\Debug\netcoreapp3.1\6.AssemblyInfoInputs.cache
+D:\5TRI\EDWIN\6\6\obj\Debug\netcoreapp3.1\6.AssemblyInfo.cs
+D:\5TRI\EDWIN\6\6\obj\Debug\netcoreapp3.1\6.csproj.CoreCompileInputs.cache
+D:\5TRI\EDWIN\6\6\obj\Debug\netcoreapp3.1\6.dll
+D:\5TRI\EDWIN\6\6\obj\Debug\netcoreapp3.1\6.pdb
+D:\5TRI\EDWIN\6\6\obj\Debug\netcoreapp3.1\6.genruntimeconfig.cache
