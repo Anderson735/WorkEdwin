@@ -6,12 +6,28 @@ namespace _2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Ingrese el valor del lado del cuadrado: ");
+            int side = Convert.ToInt32(Console.ReadLine());
+
+            Square square = new Square();
+            square.Side = side;
+            Console.WriteLine(square.ShowPerimeter());
+            Console.WriteLine(square.KnowSurface());
         }
     }
 
     class Square
     {
-        public int Side { get; set; }
+        public double Side { get; set; }
+
+        public void LoadSide(double side)
+        {
+            Side = side;
+        }
+
+        public double ShowPerimeter() => Side * 4;
+
+        public double KnowSurface() => Math.Pow(Side, 2);
+
     }
 }
