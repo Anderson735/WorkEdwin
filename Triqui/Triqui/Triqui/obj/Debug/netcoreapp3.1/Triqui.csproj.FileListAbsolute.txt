@@ -1,0 +1,13 @@
+D:\5TRI\EDWIN\Triqui\Triqui\Triqui\bin\Debug\netcoreapp3.1\Triqui.exe
+D:\5TRI\EDWIN\Triqui\Triqui\Triqui\bin\Debug\netcoreapp3.1\Triqui.deps.json
+D:\5TRI\EDWIN\Triqui\Triqui\Triqui\bin\Debug\netcoreapp3.1\Triqui.runtimeconfig.json
+D:\5TRI\EDWIN\Triqui\Triqui\Triqui\bin\Debug\netcoreapp3.1\Triqui.runtimeconfig.dev.json
+D:\5TRI\EDWIN\Triqui\Triqui\Triqui\bin\Debug\netcoreapp3.1\Triqui.dll
+D:\5TRI\EDWIN\Triqui\Triqui\Triqui\bin\Debug\netcoreapp3.1\Triqui.pdb
+D:\5TRI\EDWIN\Triqui\Triqui\Triqui\obj\Debug\netcoreapp3.1\Triqui.csproj.AssemblyReference.cache
+D:\5TRI\EDWIN\Triqui\Triqui\Triqui\obj\Debug\netcoreapp3.1\Triqui.AssemblyInfoInputs.cache
+D:\5TRI\EDWIN\Triqui\Triqui\Triqui\obj\Debug\netcoreapp3.1\Triqui.AssemblyInfo.cs
+D:\5TRI\EDWIN\Triqui\Triqui\Triqui\obj\Debug\netcoreapp3.1\Triqui.csproj.CoreCompileInputs.cache
+D:\5TRI\EDWIN\Triqui\Triqui\Triqui\obj\Debug\netcoreapp3.1\Triqui.dll
+D:\5TRI\EDWIN\Triqui\Triqui\Triqui\obj\Debug\netcoreapp3.1\Triqui.pdb
+D:\5TRI\EDWIN\Triqui\Triqui\Triqui\obj\Debug\netcoreapp3.1\Triqui.genruntimeconfig.cache
